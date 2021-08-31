@@ -6,4 +6,3 @@ lastname = input("Как твоя фамилия? ")
 print(f"Ясно, {lastname}!")
 
 print(name + lastname)
-print(name + lastname)
